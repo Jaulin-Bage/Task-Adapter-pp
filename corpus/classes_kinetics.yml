@@ -1,0 +1,416 @@
+air drumming:
+  label: air drumming
+  sub_act_en_li: ['Make drumming motions with hands in the air.', 'Imitate hitting the drumheads with fingers.', 'Maintain a rhythm while performing the air drumming.']
+
+arm wrestling:
+  label: arm wrestling
+  sub_act_en_li: ["Both participants grip each other's hands.", "Brace their elbows on a stable surface.", "Exert force to try and push the opponent's arm down."]
+
+beatboxing:
+  label: beatboxing
+  sub_act_en_li: ['Make rhythmic sounds with the mouth.', 'Use various techniques to imitate drum beats and other percussive sounds.', 'Combine different sounds to create a complex rhythm.']
+
+biking through snow:
+  label: biking through snow
+  sub_act_en_li: ['Putting on appropriate winter gear.', 'Mounting the bike and starting to pedal.', 'Navigating through the snowy terrain, avoiding slips and falls.']
+
+blowing glass:
+  label: blowing glass
+  sub_act_en_li: ['Preparing the glassblowing equipment and materials.', 'Heating the glass to a malleable state.', 'Blowing air into the molten glass to shape it.']
+
+blowing out candles:
+  label: blowing out candles
+  sub_act_en_li: ['Take a deep breath.', 'Bring the mouth close to the candles.', 'Exhale forcefully to extinguish the flames.']
+
+bowling:
+  label: bowling
+  sub_act_en_li: ['Grip the bowling ball.', 'Take a few steps forward.', 'Release the ball down the lane.']
+
+breakdancing:
+  label: breakdancing
+  sub_act_en_li: ['Executing various spins on the floor.', 'Performing acrobatic moves and freezes.', 'Incorporating rhythmic footwork and body pops.']
+
+bungee jumping:
+  label: bungee jumping
+  sub_act_en_li: ['Prepare the necessary equipment, including the bungee cord and harness.', 'Secure the harness to the body and ensure it is properly fastened.', 'Jump off a high platform or structure while attached to the bungee cord.']
+
+catching or throwing baseball:
+  label: catching or throwing baseball
+  sub_act_en_li: ['Prepare to receive or throw the ball by positioning the hands.', 'Pay attention on the ball.', 'Gently throw or grasp the ball as it approaches.']
+
+throwing:
+  label: throwing
+  sub_act_en_li: ['Grip the ball with the fingers and palm.', 'Step forward and rotate the body for momentum.', 'Release the ball with a force in the desired direction.']
+
+cheerleading:
+  label: cheerleading
+  sub_act_en_li: ['Performing energetic jumps and leaps.', 'Shouting cheers and chants loudly.', 'Waving pom-poms in an enthusiastic manner.']
+
+cleaning floor:
+  label: cleaning floor
+  sub_act_en_li: ['Sweeping the floor to remove dirt and debris.', 'Mopping the floor to clean and disinfect it.', 'Using a vacuum cleaner to suck up dust and dirt.']
+
+contact juggling:
+  label: contact juggling
+  sub_act_en_li: ['Start by holding the ball in one hand.', 'Use the hands and body to manipulate the ball in a smooth and fluid manner.', 'Perform various tricks and movements with the ball, such as rolling it along the arms or balancing it on different parts of the body.']
+
+cooking chicken:
+  label: cooking chicken
+  sub_act_en_li: ['Preparing the chicken by cleaning and cutting it into pieces.', 'Mixing the seasonings and marinating the chicken.', 'Cooking the chicken using a chosen method such as roasting, grilling, or frying.']
+
+country line dancing:
+  label: country line dancing
+  sub_act_en_li: ['Form a line with other dancers.', 'Follow the rhythm and steps of the music.', 'Move in unison with the group, incorporating various dance steps and patterns.']
+
+curling hair:
+  label: curling hair
+  sub_act_en_li: ['Prep the hair by applying a heat protectant.', 'Use a curling iron to wrap sections of hair.', 'Hold the hair in the curling iron for a few seconds to set the curl.']
+
+deadlifting:
+  label: deadlifting
+  sub_act_en_li: ['Bend down and grip the barbell.', 'Lift the barbell off the ground by straightening the legs and hips.', 'Stand up fully with the barbell held at hip level.']
+
+doing nails:
+  label: doing nails
+  sub_act_en_li: ['Preparing the nail surface by filing and buffing.', 'Applying a base coat to protect the nails.', 'Adding color or design with nail polish.']
+
+dribbling basketball:
+  label: dribbling basketball
+  sub_act_en_li: ["Hold the basketball with one hand.", "Bounce the ball on the ground repeatedly.", "Control the ball's movement and speed."]
+
+driving tractor:
+  label: driving tractor
+  sub_act_en_li: ['Starting the tractor engine.', 'Engaging the gears to move forward.', 'Steering the tractor to navigate the desired path.']
+
+drop kicking:
+  label: drop kicking
+  sub_act_en_li: ['Lift one leg and bend it at the knee.', 'Bring the lifted leg forcefully down and extend it towards the target.', 'Make contact with the target using the foot.']
+
+dying hair:
+  label: dying hair
+  sub_act_en_li: ['Preparing the hair by washing and drying it.', 'Applying the hair dye evenly to the hair.', 'Waiting for the dye to set and then rinsing the hair thoroughly.']
+
+eating burger:
+  label: eating burger
+  sub_act_en_li: ['Taking the burger with hands.', 'Bringing the burger to the mouth.', 'Biting and chewing the burger.']
+
+feeding birds:
+  label: feeding birds
+  sub_act_en_li: ['Preparing bird food.', 'Going to a place where birds are present.', 'Spreading the food for the birds to eat.']
+
+giving or receiving award:
+  label: giving or receiving award
+  sub_act_en_li: ['Selecting the recipient.', 'Preparing the award.', 'Presenting and sending the award.']
+
+hopscotch:
+  label: hopscotch
+  sub_act_en_li: ['Draw a hopscotch grid on the ground.', 'Toss a small object into one of the squares.', 'Hop through the grid, avoiding the square with the object.']
+
+jetskiing:
+  label: jetskiing
+  sub_act_en_li: ['Starting the jetski and ensuring it is in proper working condition.', 'Riding the jetski at a moderate speed, maintaining balance.', 'Performing tricks or maneuvers on the jetski for an enhanced experience.']
+
+jumping into pool:
+  label: jumping into pool
+  sub_act_en_li: ['Approach the pool edge.', 'Take a running start or a standing jump.', 'Lift off the ground and enter the water.']
+
+laughing:
+  label: laughing
+  sub_act_en_li: ['Open mouth.', 'Make a sound of laughter.', 'Show a cheerful expression.']
+
+making snowman:
+  label: making snowman
+  sub_act_en_li: ['Roll a large snowball for the base.', 'Make a medium-sized snowball for the body and place it on the base.', 'Create a small snowball for the head and put it on the body.']
+
+making snowman:
+  label: making snowman
+  sub_act_en_li: ["Use sticks for the snowman's arms.", "Carve out eyes, a nose, and a mouth using carrots and coal.", "Put a hat and a scarf on the snowman to decorate."]
+
+making snowman:
+  label: making snowman
+  sub_act_en_li: ["Gather some snow to make the snowman's buttons.", "Make a broom out of sticks and twigs for the snowman.", "Take a picture with the completed snowman."]
+
+massaging back:
+  label: massaging back
+  sub_act_en_li: ['Apply gentle pressure with hands on the back.', 'Move hands in a circular motion on the back muscles.', 'Use varying levels of pressure to work on different areas of the back.']
+
+mowing lawn:
+  label: mowing lawn
+  sub_act_en_li: ['Starting the lawnmower.', 'Pushing the lawnmower across the grass.', 'Stopping the lawnmower when the area is mowed.']
+
+opening bottle:
+  label: opening bottle
+  sub_act_en_li: ['Unscrew the bottle cap.', 'Use a bottle opener to remove the cap.', 'Pull the cork out of the bottle.']
+
+playing accordion:
+  label: playing accordion
+  sub_act_en_li: ['Hold the accordion properly.', 'Press the keys and buttons to produce notes.', 'Move the bellows to control the airflow and sound.']
+
+playing badminton:
+  label: playing badminton
+  sub_act_en_li: ['Hold the badminton racket.', 'Hit the shuttlecock over the net.', 'Move around the court to reach the shuttlecock.']
+
+playing basketball:
+  label: playing basketball
+  sub_act_en_li: ['Dribbling the ball with hands.', 'Shooting the ball towards the basket.', 'Passing the ball to teammates.']
+
+playing didgeridoo:
+  label: playing didgeridoo
+  sub_act_en_li: ['Hold the didgeridoo with the lips around the mouthpiece.', 'Produce a continuous drone by vibrating the lips.', 'Use circular breathing to maintain a steady airflow.']
+
+playing ice hockey:
+  label: playing ice hockey
+  sub_act_en_li: ["Skating on the ice with hockey skates.", "Controlling the hockey puck with a stick.", "Trying to score goals by shooting the puck into the opponent's net."]
+
+playing keyboard:
+  label: playing keyboard
+  sub_act_en_li: ['Sitting in front of the keyboard.', 'Placing fingers on the keys.', 'Pressing the keys to produce sounds.']
+
+playing ukulele:
+  label: playing ukulele
+  sub_act_en_li: ['Hold the ukulele properly.', 'Pluck the strings with fingers or a pick.', 'Strum the strings to create music.']
+
+playing xylophone:
+  label: playing xylophone
+  sub_act_en_li: ['Hold the mallets.', 'Strike the xylophone bars with the mallets.', 'Create musical notes by varying the intensity and rhythm of the strikes.']
+
+presenting weather forecast:
+  label: presenting weather forecast
+  sub_act_en_li: ['Collecting weather data.', 'Analyzing the data to make predictions.', 'Presenting the forecast to the audience through various means such as on TV, online, or in person.']
+
+punching bag:
+  label: punching bag
+  sub_act_en_li: ['Approach the punching bag.', 'Draw back the fist.', 'Throw a punch at the bag with force.']
+
+pushing cart:
+  label: pushing cart
+  sub_act_en_li: ['Position hands on the cart handle.', 'Apply force to move the cart forward.', 'Maintain balance and control while pushing.']
+
+reading book:
+  label: reading book
+  sub_act_en_li: ['Open the book.', 'Focus on the text and start reading.', 'Continue reading until reaching a desired point or finishing the book.']
+
+riding unicycle:
+  label: riding unicycle
+  sub_act_en_li: ['Mounting the unicycle and finding balance.', 'Pushing the pedals to move forward.', 'Steering the unicycle to control the direction.']
+
+shaking head:
+  label: shaking head
+  sub_act_en_li: ['Turn the head from side to side.', 'Move the head in a repetitive sideways motion.', 'Keep the body relatively still while only the head is being shaken.']
+
+sharpening pencil:
+  label: sharpening pencil
+  sub_act_en_li: ['Hold the pencil.', 'Use a sharpener and insert the pencil.', 'Turn the pencil in the sharpener to sharpen the tip.']
+
+shaving head:
+  label: shaving head
+  sub_act_en_li: ['Preparing the shaving tools, such as a razor and shaving cream.', 'Wetting the hair to make it easier to shave.', 'Using the razor to carefully remove the hair from the head.']
+
+shot put:
+  label: shot put
+  sub_act_en_li: ['Hold the shot put ball with both hands.', 'Swing the arms back and then forward to gain momentum.', 'Release the shot put ball with force.']
+
+shuffling cards:
+  label: shuffling cards
+  sub_act_en_li: ['Mix the cards randomly by spreading them out.', 'Intertwine and rearrange the cards with both hands.', 'Continue the process until the cards are thoroughly shuffled.']
+
+slacklining:
+  label: slacklining
+  sub_act_en_li: ['Secure the slackline between two anchor points.', 'Step onto the slackline and find balance.', 'Walk or perform tricks on the slackline.']
+
+sled dog racing:
+  label: sled dog racing
+  sub_act_en_li: ['Preparing the sled and equipment.', 'Harnessing the dogs to the sled.', 'Starting the race and guiding the dogs along the track.']
+
+snowboarding:
+  label: snowboarding
+  sub_act_en_li: ['Standing on the snowboard with feet properly positioned.', 'Gliding on the snow while maintaining balance.', 'Performing tricks or maneuvers on the snowboard.']
+
+somersaulting:
+  label: somersaulting
+  sub_act_en_li: ['Bend the body forward.', 'Roll the body in a forward motion.', 'Land on the feet.']
+
+squat:
+  label: squat
+  sub_act_en_li: ['Bend knees and lower the body towards the ground.', 'Keep the back straight and the feet flat on the floor.', 'Maintain balance and control while in the squat position.']
+
+surfing crowd:
+  label: surfing crowd
+  sub_act_en_li: ['People gathering at the beach.', 'Participants preparing their surfboards.', 'Surfers entering the water to catch waves.']
+
+trapezing:
+  label: trapezing
+  sub_act_en_li: ['Form a trapezoidal shape with the body or an object.', 'Move in a manner that resembles the shape of a trapezoid.', 'Maintain the trapezoidal configuration while performing the action.']
+
+using computer:
+  label: using computer
+  sub_act_en_li: ['Turn on the computer.', 'Open the desired software or application.', 'Interact with the computer by typing, clicking, or using other input methods.']
+
+washing dishes:
+  label: washing dishes
+  sub_act_en_li: ['Prepare the sink with warm water and detergent.', 'Place the dishes in the sink and scrub them with a sponge or brush.', 'Rinse the dishes thoroughly to remove soap and debris.']
+
+washing hands:
+  label: washing hands
+  sub_act_en_li: ['Turn on the faucet and adjust the water temperature.', 'Wet hands with water and apply soap.', 'Rub hands together, including between fingers and under nails, for at least 20 seconds.']
+
+water skiing:
+  label: water skiing
+  sub_act_en_li: ['Put on the water skis and secure the bindings.', 'Get into the water and hold onto the tow rope.', 'Use the skis to glide on the water as the boat pulls.']
+
+waxing legs:
+  label: waxing legs
+  sub_act_en_li: ['Prepare the wax and heating equipment.', 'Apply the warm wax to the legs in the direction of hair growth.', 'Remove the wax along with the hair by pulling the wax strip in the opposite direction of hair growth.']
+
+weaving basket:
+  label: weaving basket
+  sub_act_en_li: ['Preparing the materials such as reeds or twigs.', 'Starting to weave the base of the basket by interlacing the materials.', 'Continuing to build up the sides of the basket, shaping it as desired.']
+
+baking cookies:
+  label: baking cookies
+  sub_act_en_li: ['Preparing the ingredients (mixing flour, sugar, butter, etc.).', 'Shaping the dough into cookie shapes.', 'Putting the cookies in the oven and baking them until they are golden brown.']
+
+crossing river:
+  label: crossing river
+  sub_act_en_li: ['Approaching the riverbank.', 'Entering the water and starting to wade or swim.', 'Reaching the opposite riverbank.']
+
+dunking basketball:
+  label: dunking basketball
+  sub_act_en_li: ['Run towards the basketball hoop.', 'Jump up and reach for the hoop.', 'Forcefully slam the ball through the hoop.']
+
+feeding fish:
+  label: feeding fish
+  sub_act_en_li: ['Preparing the fish food.', 'Approaching the fish tank or aquarium.', 'Slowly scattering the food into the water.']
+
+flying kite:
+  label: flying kite
+  sub_act_en_li: ['Prepare the kite and the necessary equipment.', 'Find an open area with suitable wind conditions.', 'Launch the kite into the air and control its flight by manipulating the string.']
+
+high kick:
+  label: high kick
+  sub_act_en_li: ['Lift one leg up high.', 'Extend the leg forcefully.', 'Bring the leg back down after the kick.']
+
+javelin throw:
+  label: javelin throw
+  sub_act_en_li: ['Grasp the javelin firmly.', 'Take a running start.', 'Release the javelin with force towards the target.']
+
+playing trombone:
+  label: playing trombone
+  sub_act_en_li: ['Hold the trombone with both hands.', 'Position the mouthpiece to the lips.', 'Blow air into the mouthpiece to produce sound.']
+
+scuba diving:
+  label: scuba diving
+  sub_act_en_li: ['Put on the scuba gear.', 'Enter the water and descend.', 'Explore underwater while breathing through the scuba equipment.']
+
+skateboarding:
+  label: skateboarding
+  sub_act_en_li: ['Stand on the skateboard.', 'Push off with one foot to gain speed.', 'Balance and maneuver the skateboard.']
+
+ski jumping:
+  label: ski jumping
+  sub_act_en_li: ['Put on skis and prepare for the jump.', 'Build up speed by skiing down the slope.', 'Launch into the air from the jump ramp.']
+
+trimming beard:
+  label: trimming beard
+  sub_act_en_li: ['Prepare the trimming tools.', 'Set the desired length on the trimmer.', 'Move the trimmer along the beard to cut the excess hair.']
+
+shaving beard:
+  label: shaving beard
+  sub_act_en_li: ['Apply shaving cream or gel to the beard.', 'Use a razor to glide along the beard in the direction of hair growth.', 'Rinse the face to remove the remaining shaving cream and hair.']
+
+blasting sand:
+  label: blasting sand
+  sub_act_en_li: ['Preparing the sandblasting equipment.', 'Directing the sandblasting nozzle towards the surface to be treated.', 'Activating the sandblasting process to remove debris or create a desired texture.']
+
+busking:
+  label: busking
+  sub_act_en_li: ['Preparing musical instruments.', 'Finding a suitable location.', 'Starting to perform for the public.']
+
+cutting watermelon:
+  label: cutting watermelon
+  sub_act_en_li: ['Select a ripe watermelon.', 'Use a sharp knife to make an incision on the watermelon.', 'Continue cutting until the watermelon is divided into pieces.']
+
+dancing ballet:
+  label: dancing ballet
+  sub_act_en_li: ['Stand on the tips of the feet.', 'Perform graceful movements with the body.', 'Maintain a poised and elegant posture.']
+
+dancing charleston:
+  label: dancing charleston
+  sub_act_en_li: ['Quickly move the feet in a rhythmic pattern.', 'Swing the arms and body in sync with the footwork.', 'Incorporate rotational movements of the hips.']
+
+dancing macarena:
+  label: dancing macarena
+  sub_act_en_li: ['Move the body to the rhythm of the music.', 'Perform the characteristic hand and arm movements of the Macarena dance.', 'Step and turn in the specific dance pattern.']
+
+diving cliff:
+  label: diving cliff
+  sub_act_en_li: ['Stand at the edge of the cliff.', 'Take a deep breath and prepare.', 'Jump off the cliff into the water below.']
+
+filling eyebrows:
+  label: filling eyebrows
+  sub_act_en_li: ['Prepare the eyebrow filler product.', 'Use a brush or applicator to apply the filler to the eyebrows.', 'Shape and define the eyebrows as desired.']
+
+folding paper:
+  label: folding paper
+  sub_act_en_li: ['Lay the paper flat on a surface.', 'Crease the paper along a desired line.', 'Fold the paper along the crease to create a fold.']
+
+hula hooping:
+  label: hula hooping
+  sub_act_en_li: ['Stand with feet shoulder-width apart.', 'Put the hula hoop around the waist.', 'Rotate the hips to keep the hoop spinning.']
+
+hurling (sport):
+  label: hurling (sport)
+  sub_act_en_li: ['Player holds the hurley (a wooden stick).', 'Player swings the hurley to hit the sliotar (a small ball).', 'Player runs with the hurley and sliotar, attempting to score a goal or point.']
+
+ice skating:
+  label: ice skating
+  sub_act_en_li: ['Put on ice skates and step onto the ice.', 'Push off with one foot and glide on the ice.', 'Perform various maneuvers such as turns, spins, and jumps.']
+
+paragliding:
+  label: paragliding
+  sub_act_en_li: ['Put on the paragliding equipment.', 'Run and take off from a suitable location.', 'Use the controls to navigate and stay in the air.']
+
+playing drums:
+  label: playing drums
+  sub_act_en_li: ['Hold the drumsticks.', 'Strike the drumheads with the drumsticks.', 'Maintain a rhythm while playing.']
+
+playing monopoly:
+  label: playing monopoly
+  sub_act_en_li: ['Rolling the dice.', 'Moving the game piece according to the dice roll.', 'Buying properties and building on them.']
+
+playing trumpet:
+  label: playing trumpet
+  sub_act_en_li: ['Hold the trumpet with both hands.', 'Position the lips on the mouthpiece.', 'Blow air into the trumpet to produce sound.']
+
+pushing car:
+  label: pushing car
+  sub_act_en_li: ['Position hands on the car to exert force.', 'Push the car forward with consistent effort.', 'Continue pushing to move the car to the desired location.']
+
+riding elephant:
+  label: riding elephant
+  sub_act_en_li: ["Getting on the elephant's back.", "Holding onto the elephant's harness or other secure point.", "Guiding the elephant with the appropriate commands or cues."]
+
+shearing sheep:
+  label: shearing sheep
+  sub_act_en_li: ["Prepare the shearing tools.", "Secure the sheep to prevent it from moving.", "Use the shears to carefully remove the sheep's wool."]
+
+side kick:
+  label: side kick
+  sub_act_en_li: ['Lift the leg to the side.', 'Extend the leg forcefully in a kicking motion.', 'Retract the leg back to the starting position.']
+
+stretching arm:
+  label: stretching arm
+  sub_act_en_li: ['Extend the arm straight out in front of the body.', 'Bend the elbow and pull the hand towards the shoulder to stretch the muscles.', 'Rotate the arm in a circular motion to further loosen the muscles.']
+
+tap dancing:
+  label: tap dancing
+  sub_act_en_li: ['Stand with feet apart and knees slightly bent.', 'Use the balls of the feet to strike the floor in a rhythmic pattern, creating a tapping sound.', 'Incorporate various steps and movements while maintaining the tapping rhythm.']
+
+throwing axe:
+  label: throwing axe
+  sub_act_en_li: ['Grasp the axe firmly.', 'Draw the arm back for momentum.', 'Release the axe with force towards the target.']
+
+unboxing:
+  label: unboxing
+  sub_act_en_li: ['Remove the packaging material from the box.', 'Open the box by lifting the lid or breaking the seals.', 'Take out the contents from the box.']
+

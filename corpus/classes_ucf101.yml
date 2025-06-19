@@ -1,0 +1,608 @@
+brush hair:
+  label: brush hair
+  sub_act_en_li: ['Taking the brush.', 'Starting to brush from the roots.', 'Moving the brush through the hair to the ends.']
+
+catch:
+  label: catch
+  sub_act_en_li: ['Preparing to catch, getting into position.', 'Reaching out to grasp the object.', 'Closing hands or using a tool to secure the catch.']
+
+chew:
+  label: chew
+  sub_act_en_li: ['Putting food in the mouth.', 'Biting and grinding the food with the teeth.', 'Swallowing the chewed food after sufficient mastication.']
+
+clap:
+  label: clap
+  sub_act_en_li: ['Raising hands to chest level.', 'Bringing hands together forcefully.', 'Repeating the motion for multiple claps.']
+
+climb:
+  label: climb
+  sub_act_en_li: ['Preparing to climb.', 'Reaching for a handhold or foothold.', 'Pulling oneself up.']
+
+climb stairs:
+  label: climb stairs
+  sub_act_en_li: ['Starting at the bottom of the stairs.', 'Reaching for the next step.', 'Continuously ascending the stairs.']
+
+dive:
+  label: dive
+  sub_act_en_li: ['Preparing to dive by getting into position.', 'Taking a leap forward and beginning the descent.', 'Entering the water smoothly.']
+
+draw sword:
+  label: draw sword
+  sub_act_en_li: ['Reaching for the sword hilt.', 'Grasping the sword hilt firmly.', 'Pulling the sword out of its sheath.']
+
+dribble:
+  label: dribble
+  sub_act_en_li: ['Controlling the ball with the feet.', 'Moving the ball in different directions.', 'Maintaining a rhythm while dribbling.']
+
+drink:
+  label: drink
+  sub_act_en_li: ['Picking up the drink container.', 'Bringing the container to the mouth.', 'Inhaling the liquid from the container.']
+
+fall floor:
+  label: fall floor
+  sub_act_en_li: ['Losing balance.', 'Beginning to descend towards the floor.', 'Making contact with the floor.']
+
+flic flac:
+  label: flic flac
+  sub_act_en_li: ['Starting the flic flac movement.', 'Executing the body rotation.', 'Completing the flic flac and landing.']
+
+handstand:
+  label: handstand
+  sub_act_en_li: ['Getting into a starting position with hands on the ground.', 'Lifting the legs up and balancing on the hands.', 'Maintaining the handstand position for a period of time.']
+
+hug:
+  label: hug
+  sub_act_en_li: ['Opening arms to embrace.', 'Bringing the other person close.', 'Squeezing gently to show affection.']
+
+jump:
+  label: jump
+  sub_act_en_li: ['Preparing to jump by bending knees.', 'Pushing off the ground to gain upward momentum.', 'Landing after the jump.']
+
+kiss:
+  label: kiss
+  sub_act_en_li: ['Leaning in towards the other person.', 'Making contact with the lips.', 'Pressing the lips gently or passionately.']
+
+pullup:
+  label: pullup
+  sub_act_en_li: ['Grasping the bar.', 'Lifting the body off the ground.', 'Pulling the body up until the chin is above the bar.']
+
+punch:
+  label: punch
+  sub_act_en_li: ['Winding up the arm.', 'Extending the fist forward with force.', 'Retracting the arm after the punch.']
+
+push:
+  label: push
+  sub_act_en_li: ['Preparing to push by positioning hands on the object.', 'Applying force to start moving the object.', 'Continuing to exert force to keep the object in motion.']
+
+ride bike:
+  label: ride bike
+  sub_act_en_li: ['Getting on the bike.', 'Pushing the pedals to start moving.', 'Maintaining balance while cycling.']
+
+ride horse:
+  label: ride horse
+  sub_act_en_li: ['Mounting the horse.', 'Maintaining balance while on the horse.', 'Guiding the horse in a desired direction.']
+
+shake hands:
+  label: shake hands
+  sub_act_en_li: ["Extending one's hand.", "Grasping the other person's hand.", "Moving the hands up and down in a shaking motion."]
+
+shoot bow:
+  label: shoot bow
+  sub_act_en_li: ['Drawing the bowstring back.', 'Aiming the bow at the target.', 'Releasing the bowstring to shoot the arrow.']
+
+situp:
+  label: situp
+  sub_act_en_li: ['Lying down on the back.', 'Bending the upper body to lift the shoulders off the ground.', 'Returning to the starting position.']
+
+stand:
+  label: stand
+  sub_act_en_li: ['Maintaining an upright posture with feet on the ground.', 'Remaining still and balanced.', 'Not moving or changing position.']
+
+sword:
+  label: sword
+  sub_act_en_li: ['Drawing the sword from its sheath.', 'Holding the sword firmly.', 'Swinging the sword in an attacking motion.']
+
+sword exercise:
+  label: sword exercise
+  sub_act_en_li: ['Grasping the sword handle.', 'Executing basic swings.', 'Performing complex combinations of movements.']
+
+throw:
+  label: throw
+  sub_act_en_li: ['Grasping the object to be thrown.', 'Pulling the arm back to gain momentum.', 'Releasing the object and propelling it forward.']
+
+turn:
+  label: turn
+  sub_act_en_li: ['Initiating the turn by preparing the body.', 'Executing the rotational movement.', 'Completing the turn and stabilizing the body.']
+
+walk:
+  label: walk
+  sub_act_en_li: ['Taking the first step.', 'Maintaining a steady pace.', 'Reaching the destination.']
+
+wave:
+  label: wave
+  sub_act_en_li: ['Raising the hand.', 'Moving the hand back and forth.', 'Lowering the hand.']
+
+cartwheel:
+  label: cartwheel
+  sub_act_en_li: ['Starting position with hands and feet on the ground.', 'Lifting one hand and the opposite foot off the ground and rotating the body.', 'Completing the rotation and landing back on the hands and feet.']
+
+eat:
+  label: eat
+  sub_act_en_li: ['Preparing the food.', 'Bringing the food to the mouth.', 'Chewing and swallowing the food.']
+
+golf:
+  label: golf
+  sub_act_en_li: ['Preparing to swing the club.', 'Executing the swing.', 'Following through after the swing.']
+
+hit:
+  label: hit
+  sub_act_en_li: ['Raising the hand or object to strike.', 'Making contact with the target.', 'Exerting force upon impact.']
+
+laugh:
+  label: laugh
+  sub_act_en_li: ['Letting out a small chuckle.', 'Belly laughing with a big smile.', 'Laughing uncontrollably with tears in the eyes.']
+
+shoot ball:
+  label: shoot ball
+  sub_act_en_li: ['Taking position to shoot.', 'Aiming at the target.', 'Executing the shot with force.']
+
+shoot gun:
+  label: shoot gun
+  sub_act_en_li: ['Aiming the gun.', 'Pulling the trigger.', 'Firing the bullet.']
+
+smile:
+  label: smile
+  sub_act_en_li: ['Initiating the smile by curving the lips slightly.', 'Widening the smile to show more teeth.', 'Maintaining the smile for a period of time.' ]
+
+somersault:
+  label: somersault
+  sub_act_en_li: ['Bending the body forward.', 'Executing a complete rotation.', 'Landing on the feet.']
+
+swing baseball:
+  label: swing baseball
+  sub_act_en_li: ['Gripping the baseball bat.', 'Lifting the bat for the swing.', 'Executing the swing motion.']
+
+fencing:
+  label: fencing
+  sub_act_en_li: ["Preparing the stance.", "Making a lunge.", "Parrying an opponent's attack."]
+
+kick:
+  label: kick
+  sub_act_en_li: ['Lifting the leg.', 'Extending the foot forcefully.', 'Making contact with the intended target.']
+
+kick ball:
+  label: kick ball
+  sub_act_en_li: ['Approaching the ball.', 'Positioning the foot for the kick.', 'Making contact with the ball to send it forward.']
+
+pick:
+  label: pick
+  sub_act_en_li: ['Reaching towards the object to be picked.', 'Grasping the object firmly.', 'Lifting the object from its original position.']
+
+pour:
+  label: pour
+  sub_act_en_li: ['Holding the container.', 'Tilting the container to start the flow.', 'Controlling the rate and direction of the pour.']
+
+pushup:
+  label: pushup
+  sub_act_en_li: ['Getting into the starting position with hands and feet on the ground.', 'Lowering the body towards the ground while keeping the back straight.', 'Pushing the body back up to the starting position.']
+
+run:
+  label: run
+  sub_act_en_li: ['Starting to move the legs quickly.', 'Maintaining a fast pace.', 'Continuing to run without stopping.']
+
+sit:
+  label: sit
+  sub_act_en_li: ['Finding a seat.', 'Lowering the body onto the seat.', 'Maintaining a seated position.']
+
+smoke:
+  label: smoke
+  sub_act_en_li: ['Taking out a cigarette or other smoking device.', 'Lighting the cigarette or device.', 'Inhaling and exhaling the smoke.']
+
+talk:
+  label: talk
+  sub_act_en_li: ['Preparing to speak by formulating thoughts.', 'Expressing words and ideas aloud.', 'Listening and responding to the listener.']
+
+apply eye makeup:
+  label: Apply Eye Makeup
+  sub_act_en_li: ['Prepare the eye makeup products.', 'Apply the base color to the eyelids.', 'Add details like eyeliner and mascara.']
+
+apply lipstick:
+  label: Apply Lipstick
+  sub_act_en_li: ['Open the lipstick tube.', 'Apply the lipstick to the lips starting from the center and moving outward.', 'Blot the lips with a tissue to remove excess lipstick.']
+
+archery:
+  label: Archery
+  sub_act_en_li: ['Draw the bowstring back.', 'Aim at the target.', 'Release the bowstring to shoot the arrow.']
+
+baby crawling:
+  label: baby crawling
+  sub_act_en_li: ['Get on hands and knees.', 'Move hands and knees forward.', 'Reach the destination and stop.']
+
+balance beam:
+  label: Balance Beam
+  sub_act_en_li: ['Step onto the beam.', 'Maintain balance while walking on the beam.', 'Step off the beam safely.']
+
+band marching:
+  label: Band Marching
+  sub_act_en_li: ['Prepare the instruments.', 'March in formation.', 'Play the music while marching.']
+
+baseball pitch:
+  label: baseball pitch
+  sub_act_en_li: ['Prepare the stance.', 'Wind up and generate power.', 'Release the ball with a throwing motion.']
+
+basketball:
+  label: basketball
+  sub_act_en_li: ['Dribbling the ball.', 'Shooting the ball towards the basket.', 'Passing the ball to a teammate.']
+
+basketball dunk:
+  label: basketball dunk
+  sub_act_en_li: ['Run towards the basket.', 'Jump and reach for the rim.', 'Force the ball through the hoop.']
+
+bench press:
+  label: bench press
+  sub_act_en_li: ['Lie on the bench with the barbell on the rack.', 'Lift the barbell off the rack and lower it to the chest.', 'Push the barbell back up to the starting position.']
+
+biking:
+  label: Biking
+  sub_act_en_li: ['Get on the bike and adjust the position.', 'Start pedaling to gain speed.', 'Maintain balance and continue cycling.']
+
+billiards:
+  label: billiards
+  sub_act_en_li: ['Prepare the cue and balls.', 'Strike the cue ball to hit other balls.', 'Pocket the balls and continue the game.']
+
+blow dry hair:
+  label: blow dry hair
+  sub_act_en_li: ['Turn on the blow dryer.', 'Direct the airflow to the hair and start drying.', 'Stop the blow dryer when the hair is dry.']
+
+blowing candles:
+  label: Blowing Candles
+  sub_act_en_li: ['Approach the candles.', 'Take a deep breath and pucker lips.', 'Blow out the candles.']
+
+body weight squats:
+  label: Body Weight Squats
+  sub_act_en_li: ['Stand with feet shoulder-width apart.', 'Bend knees and lower the body as if sitting back.', 'Return to the starting position by straightening the legs.']
+
+bowling:
+  label: bowling
+  sub_act_en_li: ['Approach the lane with the ball.', 'Swing the ball back and then forward to release it.', 'Watch the ball roll down the lane and hit the pins.']
+
+boxing punching bag:
+  label: Boxing Punching Bag
+  sub_act_en_li: ['Prepare stance with feet apart and fists raised.', 'Throw punches at the punching bag with force.', 'Relax and recover after a series of punches.']
+
+boxing speed bag:
+  label: Boxing Speed Bag
+  sub_act_en_li: ['Prepare stance and position hands.', 'Start punching the speed bag with controlled force and rhythm.', 'Stop punching and return to a resting position.']
+
+breast stroke:
+  label: breast stroke
+  sub_act_en_li: ['Start by lying face down in the water.', 'Move the arms in a circular motion and kick the legs.', 'Continue the movement to swim forward and eventually stop.']
+
+brushing teeth:
+  label: Brushing Teeth
+  sub_act_en_li: ['Put toothpaste on the toothbrush.', 'Brush teeth in a circular motion.', 'Rinse mouth to remove toothpaste residue.']
+
+clean and jerk:
+  label: Clean And Jerk
+  sub_act_en_li: ['Start with the bar on the ground.', 'Lift the bar to the shoulders in the clean phase.', 'Explosively extend the hips and knees to lift the bar overhead in the jerk phase.']
+
+cliff diving:
+  label: cliff diving
+  sub_act_en_li: ['Stand at the edge of the cliff.', 'Take a leap off the cliff.', 'Enter the water below.']
+
+cricket bowling:
+  label: cricket bowling
+  sub_act_en_li: ['Approach the bowling crease.', 'Start the bowling action with a run-up.', 'Release the ball with the desired trajectory and speed.']
+
+cricket shot:
+  label: cricket shot
+  sub_act_en_li: ['Prepare for the shot by taking a stance.', 'Swing the bat to make contact with the ball.', 'Follow through with the swing after hitting the ball.']
+
+cutting in kitchen:
+  label: cutting in kitchen
+  sub_act_en_li: ['Preparing the ingredients and placing them on the cutting board.', 'Holding the knife and starting to cut the ingredients.', 'Finishing the cutting and cleaning up the cutting board and knife.']
+
+diving:
+  label: diving
+  sub_act_en_li: ['Prepare on the diving board.', 'Jump off the board and enter the water.', 'Swim to the surface.']
+
+drumming:
+  label: Drumming
+  sub_act_en_li: ['Hold the drumsticks.', 'Hit the drum surface with the drumsticks.', 'Maintain a rhythm while drumming.']
+
+fencing:
+  label: fencing
+  sub_act_en_li: ["Prepare the stance with the sword.", "Make attacking movements with the sword.", "Defend against the opponent's attacks."]
+
+field hockey penalty:
+  label: Field Hockey Penalty
+  sub_act_en_li: ['Player prepares for the penalty.', 'Player takes the shot.', 'Result of the penalty is determined.']
+
+floor gymnastics:
+  label: Floor Gymnastics
+  sub_act_en_li: ['Start with a standing position.', 'Perform various gymnastic movements on the floor, such as rolls, somersaults, and splits.', 'End with a graceful pose.']
+
+frisbee catch:
+  label: frisbee catch
+  sub_act_en_li: ['Spot the flying frisbee.', 'Reach out hands to catch the frisbee.', 'Securely hold the caught frisbee.']
+
+front crawl:
+  label: Front Crawl
+  sub_act_en_li: ['Start in a prone position in the water.', 'Alternate arm movements to pull the body forward.', 'Kick the legs in a coordinated manner to assist the forward movement.']
+
+golf swing:
+  label: Golf Swing
+  sub_act_en_li: ['Prepare the stance with feet apart and grip the club.', 'Start the backswing by rotating the body and raising the club.', 'Execute the downswing and follow-through to hit the ball.']
+
+haircut:
+  label: Haircut
+  sub_act_en_li: ['Wash and condition the hair.', 'Cut the hair using scissors or clippers.', 'Style and finish the haircut.']
+
+hammer throw:
+  label: hammer throw
+  sub_act_en_li: ['Grasp the hammer.', 'Rotate the body to gain momentum.', 'Release the hammer with force.']
+
+hammering:
+  label: hammering
+  sub_act_en_li: ['Hold the hammer.', 'Raise the hammer.', 'Strike the object with the hammer.']
+
+hand stand pushups:
+  label: Hand Stand Pushups
+  sub_act_en_li: ['Get into a handstand position with arms fully extended.', 'Lower the body towards the ground by bending the arms.', 'Push the body back up to the starting handstand position.']
+
+handstand walking:
+  label: Handstand Walking
+  sub_act_en_li: ['Start in a handstand position.', 'Walk forward by moving the hands.', 'Stop and return to the starting position.']
+
+head massage:
+  label: Head Massage
+  sub_act_en_li: ['Apply gentle pressure to the scalp with fingers.', 'Move fingers in circular motions to stimulate the scalp.', 'Relax the person being massaged by reducing tension in the head and neck area.']
+
+high jump:
+  label: high jump
+  sub_act_en_li: ['Approach the bar with a run-up.', 'Take off from the ground with a powerful leap.', 'Clear the bar and land safely on the mat.']
+
+horse race:
+  label: horse race
+  sub_act_en_li: ['Riders mount the horses.', 'Horses start galloping at the starting line.', 'Riders cross the finish line.']
+
+horse riding:
+  label: horse riding
+  sub_act_en_li: ["Mounting the horse.", "Controlling the horse's speed and direction while riding.", "Dismounting from the horse."]
+
+hula hoop:
+  label: Hula Hoop
+  sub_act_en_li: ['Stand with the hula hoop around the waist.', 'Rotate the hips to keep the hoop spinning.', 'Stop and remove the hoop.']
+
+ice dancing:
+  label: ice dancing
+  sub_act_en_li: ['Starting with a graceful entrance onto the ice.', 'Executing various spins and turns with precision.', 'Concluding with an elegant pose or movement.']
+
+javelin throw:
+  label: javelin throw
+  sub_act_en_li: ['Hold the javelin and get into the starting position.', 'Run forward and build up momentum.', 'Throw the javelin with force and release it.']
+
+juggling balls:
+  label: juggling balls
+  sub_act_en_li: ['Start by holding the balls.', 'Throw and catch the balls in a continuous motion.', 'Stop and put the balls down.']
+
+jump rope:
+  label: Jump Rope
+  sub_act_en_li: ['Hold the rope handles.', 'Start jumping over the rope as it swings.', 'Stop jumping and rest.']
+
+jumping jack:
+  label: jumping jack
+  sub_act_en_li: ['Stand with feet together and arms at sides.', 'Jump and spread legs while raising arms above head.', 'Jump back to starting position with feet together and arms at sides.']
+
+kayaking:
+  label: kayaking
+  sub_act_en_li: ['Get in the kayak and adjust the position.', 'Use the paddle to move the kayak in the water.', 'Stop kayaking and get out of the kayak.']
+
+knitting:
+  label: knitting
+  sub_act_en_li: ['Hold the knitting needles.', 'Loop the yarn around the needles.', 'Create stitches by manipulating the yarn and needles.']
+
+long jump:
+  label: long jump
+  sub_act_en_li: ['Run up for momentum.', 'Take off with a powerful leap.', 'Land and maintain balance.']
+
+lunges:
+  label: lunges
+  sub_act_en_li: ['Stand upright with feet shoulder-width apart.', 'Step forward with one foot and lower the body until the front knee is at a 90-degree angle.', 'Push off the front foot and return to the starting position.']
+
+military parade:
+  label: Military Parade
+  sub_act_en_li: ['Troops assemble and prepare.', 'March in formation with precision and discipline.', 'Display military equipment and capabilities.']
+
+mixing:
+  label: Mixing
+  sub_act_en_li: ['Gather the ingredients.', 'Combine the ingredients using a tool.', 'Ensure thorough mixture.']
+
+mopping floor:
+  label: mopping floor
+  sub_act_en_li: ['Prepare the mop and cleaning solution.', 'Push the mop back and forth on the floor to clean.', 'Rinse the mop and repeat until the floor is clean.']
+
+nunchucks:
+  label: Nunchucks
+  sub_act_en_li: ['Hold the nunchucks firmly.', 'Swing the nunchucks in various patterns.', 'Perform tricks and combinations with the nunchucks.']
+
+parallel bars:
+  label: Parallel Bars
+  sub_act_en_li: ['Mount the parallel bars.', 'Perform various exercises on the bars.', 'Dismount from the parallel bars.']
+
+pizza tossing:
+  label: pizza tossing
+  sub_act_en_li: ['Prepare the pizza dough.', 'Throw the dough into the air and catch it.', 'Repeat the tossing a few times to stretch the dough.']
+
+playing cello:
+  label: Playing Cello
+  sub_act_en_li: ['Positioning the cello between the legs.', 'Plucking or bowing the strings to produce sound.', 'Continuing to play, varying the tempo and intensity.']
+
+playing daf:
+  label: Playing Daf
+  sub_act_en_li: ['Hold the Daf.', 'Strike the Daf to produce sounds.', 'Continue playing with various rhythms.']
+
+playing dhol:
+  label: playing dhol
+  sub_act_en_li: ['Hold the dhol.', 'Strike the drum with the sticks.', 'Maintain a rhythm while playing.']
+
+playing flute:
+  label: playing flute
+  sub_act_en_li: ['Hold the flute properly.', 'Blow into the flute to produce sound.', 'Play a melody by fingering the holes.']
+
+playing guitar:
+  label: playing guitar
+  sub_act_en_li: ['Tune the guitar.', 'Strum the strings.', 'Play various chords and riffs.']
+
+playing piano:
+  label: playing piano
+  sub_act_en_li: ['Sitting at the piano bench.', 'Placing fingers on the piano keys.', 'Pressing the keys to produce music.']
+
+playing sitar:
+  label: playing sitar
+  sub_act_en_li: ['Hold the sitar properly.', 'Pluck the strings to produce sounds.', 'Play various musical phrases and patterns.']
+
+playing tabla:
+  label: playing tabla
+  sub_act_en_li: ['Positioning the hands on the tabla.', 'Striking the tabla to produce sounds.', 'Varying the rhythm and intensity of the beats.']
+
+playing violin:
+  label: playing violin
+  sub_act_en_li: ['Hold the violin properly.', 'Draw the bow across the strings to produce sound.', 'Play a piece of music with various techniques and expressions.']
+
+pole vault:
+  label: pole vault
+  sub_act_en_li: ['Run with the pole.', 'Plant the pole and launch the body.', 'Clear the bar and land safely.']
+
+pommel horse:
+  label: pommel horse
+  sub_act_en_li: ['Mount the pommel horse.', 'Perform various maneuvers on the pommel horse.', 'Dismount from the pommel horse.']
+
+pull ups:
+  label: pull ups
+  sub_act_en_li: ['Grab the bar with an overhand grip.', 'Lift the body up until the chin is above the bar.', 'Lower the body back down to the starting position.']
+
+punch:
+  label: punch
+  sub_act_en_li: ['Draw back the fist.', 'Extend the arm forcefully to deliver the punch.', 'Retract the arm after the punch.']
+
+push ups:
+  label: push ups
+  sub_act_en_li: ['Start in a prone position with hands and feet on the ground.', 'Lower the body by bending the arms.', 'Push the body back up to the starting position.']
+
+rafting:
+  label: rafting
+  sub_act_en_li: ['Get on the raft.', 'Paddle through the water.', 'Reach the destination and get off the raft.']
+
+rock climbing indoor:
+  label: Rock Climbing Indoor
+  sub_act_en_li: ['Put on the climbing gear.', 'Start climbing on the indoor wall.', 'Reach the top and come down safely.']
+
+rope climbing:
+  label: rope climbing
+  sub_act_en_li: ['Grab the rope.', 'Pull oneself up the rope.', 'Reach the top and get off the rope.']
+
+rowing:
+  label: rowing
+  sub_act_en_li: ['Sitting in the boat and grasping the oars.', 'Pushing the oars through the water to move the boat forward.', 'Repeating the rowing motion to continue the forward movement.']
+
+salsa spin:
+  label: salsa spin
+  sub_act_en_li: ['Start with a basic salsa step.', 'Twist the body and rotate.', 'End with a graceful pose.']
+
+shaving beard:
+  label: shaving beard
+  sub_act_en_li: ['Prepare shaving tools (razor, cream, etc.).', 'Apply shaving cream to the beard.', 'Use the razor to shave the beard smoothly.']
+
+shotput:
+  label: shotput
+  sub_act_en_li: ['Prepare the shotput, holding it with both hands.', 'Swing the shotput back and forth to gain momentum.', 'Release the shotput with force, throwing it as far as possible.']
+
+skate boarding:
+  label: skate boarding
+  sub_act_en_li: ['Stand on the skateboard with balance.', 'Push off with one foot to gain speed.', 'Perform tricks or maneuvers while moving.']
+
+skiing:
+  label: skiing
+  sub_act_en_li: ['Put on skis and adjust bindings.', 'Push off and start gliding on the snow.', 'Make turns and control speed while skiing down the slope.']
+
+skijet:
+  label: skijet
+  sub_act_en_li: ['Put on the skis and prepare.', 'Start moving on the snow with the skijet.', 'Stop and come to a halt.']
+
+sky diving:
+  label: sky diving
+  sub_act_en_li: ['Jump out of the aircraft.', 'Freefall through the air.', 'Deploy the parachute and land safely.']
+
+soccer juggling:
+  label: soccer juggling
+  sub_act_en_li: ['Start with the ball on the ground.', 'Use feet to repeatedly kick the ball up in the air.', 'Keep the ball in the air by continuously juggling with different parts of the feet.']
+
+soccer penalty:
+  label: soccer penalty
+  sub_act_en_li: ['Approach the ball.', 'Take a run-up and strike the ball.', 'Wait for the result of the shot.']
+
+still rings:
+  label: Still Rings
+  sub_act_en_li: ['Get onto the rings and assume a starting position.', 'Maintain a stable position on the rings.', 'Disengage from the rings and return to a standing position.']
+
+sumo wrestling:
+  label: sumo wrestling
+  sub_act_en_li: ['Enter the ring with a determined stance.', 'Engage in a pushing and shoving match with the opponent.', 'Try to force the opponent out of the ring or make them touch the ground.']
+
+surfing:
+  label: surfing
+  sub_act_en_li: ['Paddle out to catch a wave.', 'Stand up on the surfboard and balance.', 'Ride the wave until it dissipates.']
+
+swing:
+  label: swing
+  sub_act_en_li: ['Grab the swing.', 'Start swinging back and forth.', 'Stop swinging and get off.']
+
+table tennis shot:
+  label: Table Tennis Shot
+  sub_act_en_li: ['Prepare the stance and grip the racket.', 'Swing the racket to hit the ball.', 'Follow through with the shot.']
+
+tai chi:
+  label: Tai Chi
+  sub_act_en_li: ['Begin with a standing posture, feet shoulder-width apart, body relaxed.', 'Perform slow and flowing movements, such as circular arm motions and gentle shifts of weight.', 'End with a calming pose, breathing evenly and maintaining a sense of inner peace.']
+
+tennis swing:
+  label: tennis swing
+  sub_act_en_li: ['Prepare the stance with feet apart and grip the racket.', 'Swing the racket back for power generation.', 'Follow through with the swing and hit the ball.']
+
+throw discus:
+  label: throw discus
+  sub_act_en_li: ['Grasp the discus.', 'Rotate the body and build momentum.', 'Release the discus with force.']
+
+trampoline jumping:
+  label: trampoline Jumping
+  sub_act_en_li: ['Approach the trampoline.', 'Bounce on the trampoline.', 'Land safely from the trampoline.']
+
+typing:
+  label: Typing
+  sub_act_en_li: ['Placing fingers on the keyboard.', 'Pressing keys to input characters.', 'Taking a break or pausing the typing.']
+
+uneven bars:
+  label: Uneven Bars
+  sub_act_en_li: ['Mount the bars.', 'Perform various swings and transitions.', 'Dismount from the bars.']
+
+volleyball spiking:
+  label: volleyball spiking
+  sub_act_en_li: ["Approach the ball with a run-up.", "Jump and extend the body to reach the ball.", "Hit the ball forcefully towards the opponent's court."]
+
+walking with dog:
+  label: walking with dog
+  sub_act_en_li: ['Put on the leash and hold it.', 'Start walking with the dog at a moderate pace.', 'Stop and let the dog sniff around or interact with the environment.']
+
+wall pushups:
+  label: Wall Pushups
+  sub_act_en_li: ['Stand facing the wall with hands on the wall at shoulder height.', 'Bend the arms to lower the body towards the wall.', 'Push back up to the starting position.']
+
+writing on board:
+  label: writing on board
+  sub_act_en_li: ['Approaching the board.', 'Taking the writing tool and starting to write.', 'Finishing writing and stepping away from the board.']
+
+yo yo:
+  label: yo Yo
+  sub_act_en_li: ['Throw the yo yo down.', 'Let the yo yo spin at the end of the string.', 'Reel the yo yo back up.']
+

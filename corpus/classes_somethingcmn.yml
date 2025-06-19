@@ -1,0 +1,400 @@
+pouring something into something:
+  label: Pouring something into something
+  sub_act_en_li: ['The person holds the container with the substance to be poured.', 'The substance starts to flow from the original container into the destination container.', 'The destination container is filled to the desired level with the poured substance.']
+
+poking a stack of something without the stack collapsing:
+  label: Poking a stack of something without the stack collapsing
+  sub_act_en_li: ['Preparing to poke the stack, with the hand or a tool near the stack.', 'Applying a gentle poke to the stack, with the stack remaining intact.', 'Withdrawing the poking implement after the stack remains stable.']
+
+pretending to poke something:
+  label: Pretending to poke something
+  sub_act_en_li: ['Making a gesture as if holding a poking tool.', 'Moving the hand or tool forward as if to poke.', 'Stopping the movement without actually making contact.']
+
+lifting up one end of something without letting it drop down:
+  label: Lifting up one end of something without letting it drop down
+  sub_act_en_li: ['Applying force to raise one end of the object.', 'Maintaining the lifted position of the object.', 'Object remaining lifted without dropping down.']
+
+moving part of something:
+  label: Moving part of something
+  sub_act_en_li: ['Preparing to move the part, getting a grip or finding a way to initiate the movement.', 'The actual movement of the part, changing its position or orientation.', 'The part being in the new position after the movement is completed.']
+
+moving something and something away from each other:
+  label: Moving something and something away from each other
+  sub_act_en_li: ['The two objects are initially in close proximity.', 'A force is applied to start moving the objects apart.', 'The objects are now at a greater distance from each other.']
+
+removing something, revealing something behind:
+  label: Removing something, revealing something behind
+  sub_act_en_li: ['Starting to remove the object.', 'Partially removing the object and partially revealing what is behind.', 'Completely removing the object to fully expose what was hidden.']
+
+plugging something into something:
+  label: Plugging something into something
+  sub_act_en_li: ['Preparing to insert the object, aligning it with the socket.', 'Inserting the object into the socket with some force.', 'The object is fully inserted and the connection is established.']
+
+tipping something with something in it over, so something in it falls out:
+  label: Tipping something with something in it over, so something in it falls out
+  sub_act_en_li: ['Holding the object to be tipped.', 'Tilting the object to cause it to tip over.', 'The contents of the object falling out.']
+
+stacking number of something:
+  label: Stacking number of something
+  sub_act_en_li: ['Preparing the items to be stacked.', 'Placing one item on top of another to form a stack.', 'The completed stack with the specified number of items.']
+
+putting something onto a slanted surface but it doesn't glide down:
+  label: Putting something onto a slanted surface but it doesn't glide down
+  sub_act_en_li: ['Placing the object on the slanted surface.', 'The object remaining in place without sliding.', 'The slanted surface providing enough friction to prevent the object from moving.']
+
+moving something across a surface until it falls down:
+  label: Moving something across a surface until it falls down
+  sub_act_en_li: ['Placing the object on the surface.', 'Pushing the object along the surface.', 'The object losing balance and falling down.']
+
+throwing something in the air and catching it:
+  label: Throwing something in the air and catching it
+  sub_act_en_li: ['Preparing to throw, with the object in hand.', 'Throwing the object upward, releasing it from the hand.', 'Catching the object as it falls back down.']
+
+putting something that cannot actually stand upright upright on the table, so it falls on its side:
+  label: Putting unstable object upright and causing it to fall sideways
+  sub_act_en_li: ['Attempting to make the object stand upright on the table.', 'The object initially standing but unstable.', 'The object falling on its side.']
+
+holding something next to something:
+  label: Holding something next to something
+  sub_act_en_li: ['Having one object in hand and the other object nearby.', 'Bringing the two objects close together without touching.', 'Maintaining the position with the objects adjacent to each other.']
+
+pretending to put something underneath something:
+  label: Pretending to put something underneath something
+  sub_act_en_li: ['Making a gesture as if picking up an object.', 'Moving the hand as if placing the object beneath another.', 'Maintaining the position as if the object is now underneath.']
+
+poking something so lightly that it doesn't or almost doesn't move:
+  label: Poking something so lightly that it doesn't or almost doesn't move
+  sub_act_en_li: ['Extending a finger or an object towards the thing to be poked.', 'Making gentle contact with the thing without causing significant movement.', 'The thing remaining in its original position or with only a negligible displacement.']
+
+approaching something with your camera:
+  label: Approaching something with your camera
+  sub_act_en_li: ['Pointing the camera in the general direction of the object.', 'Moving the camera closer to the object.', 'Getting the camera within a close range of the object.']
+
+poking something so that it spins around:
+  label: Poking something so that it spins around
+  sub_act_en_li: ['Preparing to poke, with the object to be poked in sight.', 'Applying force with a poking tool to make the object start spinning.', 'The object spinning continuously after being poked.']
+
+pushing something so that it falls off the table:
+  label: Pushing something so that it falls off the table
+  sub_act_en_li: ['Placing hands on the object to be pushed.', 'Applying force to move the object towards the edge of the table.', 'The object falling off the table and onto the floor.']
+
+spilling something next to something:
+  label: Spilling something next to something
+  sub_act_en_li: ['Accidentally knocking over the container with the substance.', 'The substance flowing out and spreading next to the other object.', 'The area next to the object being covered or partially covered with the spilled substance.']
+
+pretending or trying and failing to twist something:
+  label: Pretending or trying and failing to twist something
+  sub_act_en_li: ['Making twisting motions with the hands but not applying enough force.', 'Appearing to exert effort to twist, but the object remains unmoved.', 'Stopping the attempted twisting after realizing it is not working.']
+
+pulling two ends of something so that it separates into two pieces:
+  label: Pulling two ends of something so that it separates into two pieces
+  sub_act_en_li: ['Applying force to the two ends of the object.', 'The object starting to stretch and deform as the force is applied.', 'The object finally splitting into two pieces.']
+
+lifting up one end of something, then letting it drop down:
+  label: Lifting up one end of something, then letting it drop down
+  sub_act_en_li: ['Grasping and raising one end of the object.', 'Holding the object in the lifted position.', 'Releasing the object to allow it to fall down.']
+
+tilting something with something on it slightly so it doesn't fall down:
+  label: Tilting something with something on it slightly so it doesn't fall down
+  sub_act_en_li: ['Preparing to tilt - ensuring a stable grip on the object and the items on it.', 'Tilting the object slightly - maintaining balance to prevent the items from falling.', 'Object tilted at the desired angle - with the items remaining in place.']
+
+spreading something onto something:
+  label: Spreading something onto something
+  sub_act_en_li: ['Having the substance ready to be spread.', 'Applying the substance in a continuous motion onto the surface.', 'The surface being evenly covered with the substance.']
+
+touching (without moving) part of something:
+  label: Touching (without moving) part of something
+  sub_act_en_li: ['Making initial contact with the part.', 'Maintaining the touch without any movement.', 'Remaining in the touched state without changing the position.']
+
+turning the camera left while filming something:
+  label: Turning the camera left while filming something
+  sub_act_en_li: ['Starting to rotate the camera to the left while the filming begins.', 'Continuously turning the camera left during the filming process.', 'Completing the leftward rotation of the camera while the filming continues.']
+
+pushing something so that it slightly moves:
+  label: Pushing something so that it slightly moves
+  sub_act_en_li: ['Preparing to push, with hands or an object in position near the thing to be pushed.', 'Applying force to the thing, causing it to start moving slightly.', 'The thing has been pushed and is in a slightly different position.']
+
+uncovering something:
+  label: Uncovering something
+  sub_act_en_li: ['Starting to remove the covering.', 'Partially removing the covering.', 'Completely removing the covering and exposing the object beneath.']
+
+moving something across a surface without it falling down:
+  label: Moving something across a surface without it falling down
+  sub_act_en_li: ['Preparing to move the object, ensuring a stable grip.', 'Carefully moving the object across the surface, maintaining balance.', 'Completing the movement and placing the object safely on the destination surface.']
+
+putting something behind something:
+  label: Putting something behind something
+  sub_act_en_li: ['Holding the object to be placed.', 'Moving the object towards the area behind the other object.', 'The object is positioned behind the other object.']
+
+attaching something to something:
+  label: Attaching something to something
+  sub_act_en_li: ['Preparing the objects to be attached.', 'Bringing the objects into contact for attachment.', 'The objects being firmly attached to each other.']
+
+pulling something onto something:
+  label: Pulling something onto something
+  sub_act_en_li: ['Grabbing the object to be pulled.', 'Applying force to move the object towards the other thing.', 'The object being placed onto the other thing.']
+
+burying something in something:
+  label: Burying something in something
+  sub_act_en_li: ['Digging a hole in the ground or other medium.', 'Placing the object to be buried into the hole.', 'Covering the object with the dug-out material to complete the burial.']
+
+putting number of something onto something:
+  label: Putting number of something onto something
+  sub_act_en_li: ['Holding the items to be placed.', 'Moving the items towards the surface.', 'The items placed on the surface in the specified number.']
+
+letting something roll along a flat surface:
+  label: Letting something roll along a flat surface
+  sub_act_en_li: ['Placing the object on the flat surface.', 'The object starts to roll smoothly.', 'The object continues to roll until it comes to a stop or reaches the desired destination.']
+
+bending something until it breaks:
+  label: Bending something until it breaks
+  sub_act_en_li: ['Applying force to start bending the object.', 'The object is continuously being bent and deformed.', 'The object finally breaks under the applied force.']
+
+showing something behind something:
+  label: Showing something behind something
+  sub_act_en_li: ['Placing the object to be shown behind another object.', 'Partially revealing the object behind the other object.', 'Fully exposing the object that was behind the other object.']
+
+pretending to open something without actually opening it:
+  label: Pretending to open something without actually opening it
+  sub_act_en_li: ['Making a gesture as if starting to open the object.', 'Maintaining the appearance of attempting to open without making actual progress.', 'Stopping the pretend action without having actually opened the object.']
+
+pretending to put something onto something:
+  label: Pretending to put something onto something
+  sub_act_en_li: ['Making a gesture as if holding an object to place.', 'Moving the hand in a placing motion without an actual object.', 'Stopping the motion as if the object has been placed.']
+
+moving away from something with your camera:
+  label: Moving away from something with your camera
+  sub_act_en_li: ['Starting to move the camera backwards.', 'Continuously moving the camera further away from the object.', 'Completing the movement and having the camera at a considerable distance from the initial position.']
+
+wiping something off of something:
+  label: Wiping something off of something
+  sub_act_en_li: ['Holding the wiping tool.', 'Applying pressure and moving the tool to remove the substance.', 'The surface is clean with the substance removed.']
+
+pretending to spread air onto something:
+  label: Pretending to spread air onto something
+  sub_act_en_li: ['Making a gesture as if holding an object to spread air.', 'Moving the hands in a spreading motion as if releasing air.', 'Maintaining the pretend action for a moment as if the air is being spread onto the something.']
+
+holding something over something:
+  label: Holding something over something
+  sub_act_en_li: ['The object is lifted and positioned above the other object.', 'The object is being held steadily in that position.', 'The held object remains suspended over the other object without being moved or lowered.']
+
+pretending or failing to wipe something off of something:
+  label: Pretending or failing to wipe something off of something
+  sub_act_en_li: ['Making a wiping motion without actually touching the surface.', 'Attempting to wipe but the wiping tool does not make proper contact.', 'Appearing to wipe but not applying enough force to remove the supposed dirt or substance.']
+
+pretending to put something on a surface:
+  label: Pretending to put something on a surface
+  sub_act_en_li: ['Making a gesture as if holding an object to be placed.', 'Moving the hand in a motion towards the surface as if placing the object.', 'Stopping the hand movement just above the surface without actually placing anything.']
+
+moving something and something so they collide with each other:
+  label: Moving something and something so they collide with each other
+  sub_act_en_li: ['Preparing to move the objects.', 'Moving the objects towards each other.', 'The objects colliding with each other.']
+
+pretending to turn something upside down:
+  label: Pretending to turn something upside down
+  sub_act_en_li: ['Making a gesture as if starting to turn the object.', 'Executing the pretend turning motion.', 'Maintaining the upside-down position gesture for a moment.']
+
+showing something to the camera:
+  label: Showing something to the camera
+  sub_act_en_li: ['Preparing the object to be shown.', 'Holding the object in front of the camera.', 'The object being visible in the camera frame.']
+
+dropping something onto something:
+  label: Dropping something onto something
+  sub_act_en_li: ['Holding the object above the surface.', 'Releasing the object and it begins to fall.', 'The object makes contact with the surface.']
+
+pushing something so that it almost falls off but doesn't:
+  label: Pushing something so that it almost falls off but does not
+  sub_act_en_li: ['Applying force to the object to start the push.', 'The object being pushed to the point of near imbalance.', 'The object remaining in place despite the near-falling-off state.']
+
+piling something up:
+  label: Piling something up
+  sub_act_en_li: ['Collecting items to be piled.', 'Stacking the items one on top of another.', 'The completed pile of items.']
+
+taking one of many similar things on the table:
+  label: Taking one of many similar things on the table
+  sub_act_en_li: ['Looking at the similar things on the table.', 'Reaching out to pick up one of the things.', 'Holding the picked thing in hand.']
+
+putting something in front of something:
+  label: Putting something in front of something
+  sub_act_en_li: ['Holding the object to be placed.', 'Moving the object towards the designated location.', 'The object positioned in front of the other.']
+
+laying something on the table on its side, not upright:
+  label: Laying something on the table on its side, not upright
+  sub_act_en_li: ['Preparing to lay the object, with it held at an angle.', 'Gently placing the object on the table so it rests on its side.', 'The object remains on the table in a sideways position.']
+
+lifting a surface with something on it until it starts sliding down:
+  label: Lifting a surface with something on it until it starts sliding down
+  sub_act_en_li: ['Holding the surface and applying upward force.', 'The surface being lifted off the ground.', 'The objects on the surface starting to slide down.']
+
+poking something so it slightly moves:
+  label: Poking something so it slightly moves
+  sub_act_en_li: ['Preparing to poke, with the hand or an object in position.', 'Applying force to poke the object, causing it to move slightly.', 'The object having been poked and being in a slightly moved state.']
+
+putting something into something:
+  label: Putting something into something
+  sub_act_en_li: ['Holding the object to be placed.', 'Moving the object towards the container.', 'Object placed inside the container.']
+
+pulling something from right to left:
+  label: Pulling something from right to left
+  sub_act_en_li: ['Reaching out to the object on the right.', 'Applying force to move the object towards the left.', 'The object being in the new position on the left.']
+
+showing that something is empty:
+  label: Showing that something is empty
+  sub_act_en_li: ['Empty container is presented.', 'Contents are removed to demonstrate emptiness.', 'The inside of the container is shown to be void of any contents.']
+
+spilling something behind something:
+  label: Spilling something behind something
+  sub_act_en_li: ['Accidentally knocking over the container with the substance.', 'The substance flowing and spreading out behind the object.', 'The area behind the object being covered with the spilled substance.']
+
+letting something roll down a slanted surface:
+  label: Letting something roll down a slanted surface
+  sub_act_en_li: ['Placing the object at the top of the slanted surface.', 'The object starts to roll down due to gravity.', 'The object reaches the bottom of the slanted surface.']
+
+holding something behind something:
+  label: Holding something behind something
+  sub_act_en_li: ['Having the object to be hidden in hand.', 'Placing the object behind the other object.', 'The hidden object being obscured from view.']
+
+lifting something up completely without letting it drop down:
+  label: Lifting something up completely without letting it drop down
+  sub_act_en_li: ['Preparing to lift, getting a firm grip on the object.', 'Applying force to lift the object steadily.', 'Holding the object in the lifted position without any downward movement.']
+
+pouring something into something until it overflows:
+  label: Pouring something into something until it overflows
+  sub_act_en_li: ['Starting to pour the liquid into the container.', 'Continuously pouring the liquid, with the container filling up.', 'The liquid overflowing from the container.']
+
+putting something, something and something on the table:
+  label: Putting something, something and something on the table
+  sub_act_en_li: ['Holding the objects to be placed.', 'Moving the objects towards the table.', 'The objects resting on the table.']
+
+trying to bend something unbendable so nothing happens:
+  label: Trying to bend something unbendable so nothing happens
+  sub_act_en_li: ['Applying force to try and bend the object.', 'The object remaining rigid and not bending.', 'The person realizing that the object cannot be bent.']
+
+pouring something out of something:
+  label: Pouring something out of something
+  sub_act_en_li: ['Holding the container to be emptied.', 'Liquid flowing out of the container.', 'Container becoming empty as the liquid is poured out.']
+
+throwing something onto a surface:
+  label: Throwing something onto a surface
+  sub_act_en_li: ['Preparing to throw, with the object in hand.', 'Releasing the object and it is in mid-air towards the surface.', 'The object lands on the surface.']
+
+putting something onto something else that cannot support it so it falls down:
+  label: Putting something onto something else that cannot support it so it falls down
+  sub_act_en_li: ['Placing the object on the unstable surface.', 'The unstable surface unable to bear the weight and starting to give way.', 'The object falling down from the unstable surface.']
+
+pretending to pour something out of something, but something is empty:
+  label: Pretending to pour from empty container
+  sub_act_en_li: ['Holding the empty container as if to pour.', 'Making a pouring motion with the empty container.', 'No actual substance being poured out of the container.']
+
+pulling something out of something:
+  label: Pulling something out of something
+  sub_act_en_li: ['Grabbing the object to be pulled out.', 'Applying force to extract the object.', 'The object successfully removed from the container or location.']
+
+holding something in front of something:
+  label: Holding something in front of something
+  sub_act_en_li: ['Having an object in hand and positioning it in front of another object.', 'Maintaining the object in the held position in front of the other object.', 'Continuing to hold the object without moving it away from in front of the other object.']
+
+tilting something with something on it until it falls off:
+  label: Tilting something with something on it until it falls off
+  sub_act_en_li: ['Tilting the object at an angle.', 'The object with something on it starting to wobble.', 'The something on the object falling off.']
+
+moving something away from the camera:
+  label: Moving something away from the camera
+  sub_act_en_li: ['Object starting at its initial position in front of the camera.', 'Object in motion, gradually moving further from the camera.', 'Object at a considerable distance from the camera, continuing to move away.']
+
+twisting (wringing) something wet until water comes out:
+  label: Twisting (wringing) something wet until water comes out
+  sub_act_en_li: ['Grasping the wet item firmly.', 'Applying a twisting motion to the item.', 'Water being squeezed out of the item.']
+
+poking a hole into something soft:
+  label: Poking a hole into something soft
+  sub_act_en_li: ['Preparing to poke, with a pointed object in hand.', 'Applying force to the pointed object to penetrate the soft material.', 'A hole is formed in the soft material.']
+
+pretending to take something from somewhere:
+  label: Pretending to take something from somewhere
+  sub_act_en_li: ['Making a gesture as if reaching into a location.', 'Appearing to grasp an imaginary object.', 'Pulling the hand out as if holding the pretended object.']
+
+putting something upright on the table:
+  label: Putting something upright on the table
+  sub_act_en_li: ['Holding the object in a position to be placed upright.', 'Slowly moving the object towards the table surface.', 'The object standing upright and stable on the table.']
+
+poking a hole into some substance:
+  label: Poking a hole into some substance
+  sub_act_en_li: ['Preparing the tool for poking.', 'Applying force to create the hole.', 'The substance with a hole in it.']
+
+rolling something on a flat surface:
+  label: Rolling something on a flat surface
+  sub_act_en_li: ['Object placed on the flat surface.', 'Object starts to roll with an initial push.', 'Object continues to roll until it comes to a stop or is otherwise intervened with.']
+
+poking a stack of something so the stack collapses:
+  label: Poking a stack of something so the stack collapses
+  sub_act_en_li: ['Preparing to poke the stack, with the hand or an object ready.', 'Applying force to the stack by poking it.', 'The stack collapsing as a result of the poking.']
+
+twisting something:
+  label: Twisting something
+  sub_act_en_li: ['Applying initial force to start the twisting motion.', 'The object being rotated or turned.', 'The object fully twisted to the desired position or degree.']
+
+something falling like a feather or paper:
+  label: Something falling like a feather or paper
+  sub_act_en_li: ['Object starting to descend gently.', 'Object floating slowly through the air.', 'Object landing softly on a surface.']
+
+putting something on the edge of something so it is not supported and falls down:
+  label: Putting something on the edge of something so it is not supported and falls down
+  sub_act_en_li: ['Placing the object on the edge of the other object.', 'The object being unstable on the edge, not properly supported.', 'The object falling down from the edge.']
+
+pushing something off of something:
+  label: Pushing something off of something
+  sub_act_en_li: ['Preparing to push, with hands or an object in position near the thing to be pushed.', 'Applying force to start moving the thing off the surface.', 'The thing has been successfully pushed off and is no longer on the original surface.']
+
+dropping something into something:
+  label: Dropping something into something
+  sub_act_en_li: ['Holding the object to be dropped.', 'Releasing the object and it falls into the other thing.', 'The object is inside the other thing.']
+
+letting something roll up a slanted surface, so it rolls back down:
+  label: Letting something roll up a slanted surface, so it rolls back down
+  sub_act_en_li: ['Placing the object at the bottom of the slanted surface.', 'The object moving up the slanted surface.', 'The object rolling back down the slanted surface.']
+
+pushing something with something:
+  label: Pushing something with something
+  sub_act_en_li: ['Holding the pushing object.', 'Applying force to move the pushed object.', 'The pushed object being displaced.']
+
+opening something:
+  label: Opening something
+  sub_act_en_li: ['Preparing to open, such as grasping the object or finding the opening mechanism.', 'In the process of opening, applying force to start the separation of the parts.', 'The object is fully opened, with the contents accessible or the intended functionality enabled.']
+
+putting something on a surface:
+  label: Putting something on a surface
+  sub_act_en_li: ['Holding the object above the surface.', 'Lowering the object towards the surface.', 'Object resting on the surface.']
+
+taking something out of something:
+  label: Taking something out of something
+  sub_act_en_li: ['Reaching into the container to access the contents.', 'Removing the object from the container.', 'The object is now outside of the container.']
+
+spinning something that quickly stops spinning:
+  label: Spinning something that quickly stops spinning
+  sub_act_en_li: ['Object starts spinning rapidly.', 'Object continues spinning but speed decreases.', 'Object comes to a sudden stop.']
+
+unfolding something:
+  label: Unfolding something
+  sub_act_en_li: ['Starting to unfold the object, with it still mostly folded.', 'Partially unfolding the object, revealing some of its contents or shape.', 'Completely unfolding the object, making it fully spread out.']
+
+moving something towards the camera:
+  label: Moving something towards the camera
+  sub_act_en_li: ['Starting to move the object in the direction of the camera.', 'The object continuing to move closer to the camera.', 'The object reaching a position close to the camera.']
+
+putting something next to something:
+  label: Putting something next to something
+  sub_act_en_li: ['Holding the object to be placed.', 'Moving the object towards the designated location next to another object.', 'The object is positioned next to the other object.']
+
+scooping something up with something:
+  label: Scooping something up with something
+  sub_act_en_li: ['Holding the scooping tool.', 'Using the scooping tool to gather the object.', 'The object being scooped up and held in the tool.']
+
+squeezing something:
+  label: Squeezing something
+  sub_act_en_li: ['Applying pressure to the object.', 'The object being deformed under the pressure.', 'The contents of the object being expelled or the object changing shape significantly.']
+
+failing to put something into something because something does not fit:
+  label: Failing to put something into something because something does not fit
+  sub_act_en_li: ['Attempting to insert the object into the container.', 'Realizing that the object does not fit into the container.', 'Stopping the insertion attempt due to the size mismatch.']
+
