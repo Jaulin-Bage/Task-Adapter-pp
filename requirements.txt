@@ -1,0 +1,9 @@
+clip==1.0
+decord==0.6.0
+einops==0.8.1
+numpy==2.3.0
+Pillow==11.2.1
+PyYAML==6.0.1
+PyYAML==6.0.2
+torch==2.2.2+cu121
+torchvision==0.17.2+cu121
