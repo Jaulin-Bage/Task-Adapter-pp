@@ -3,13 +3,33 @@
 - [English](#english)
 - [中文](#中文)
 
----
+
 
 ### English
 
-// Your English content here
+## Datasets
 
----
+We used the five most common action recognition datasets: UCF101, Kinetics, HMDB51, and SSv2-Small/Full.
+
+## File Structure
+
+```
+Task-Adapter-pp
+├─README.md
+├─config.yaml 
+├─dataset.py 
+├─module_adapter.py //task adapter
+├─module_sem_adapter //order adapter
+├─requirements.txt
+├─run.py
+├─utils.py
+├─corpus/
+	├─classes_hmdb51.yml
+	├─classes_kinetics.yml
+	├─classes_somethingcmn.yml
+	├─classes_somethingotam.yml
+	├─classes_ucf101.yml
+```
 
 ### 中文
 
@@ -37,4 +57,3 @@ Task-Adapter-pp
 	├─classes_ucf101.yml
 ```
 
-## 没了
