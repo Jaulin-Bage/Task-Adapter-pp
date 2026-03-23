@@ -56,4 +56,5 @@ Task-Adapter-pp
 	├─classes_somethingotam.yml
 	├─classes_ucf101.yml
 ```
-
+Go to Task-Adapter for more details about the training and datasets.
+https://github.com/bedman367/Task-Adapter
